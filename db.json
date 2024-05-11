@@ -26,10 +26,10 @@
     }
 ],
     "categories":[
-       {"title":"Software Development"},
-        {"title":"Cloud Services and Hosting Solutions"},
-       {"title":"Cybersecurity Solutions"},
-       {"title":"Web Development"},
-       {"title":"Data Analytics"}
+       "Software Development",
+       "Cloud Services and Hosting Solutions",
+       "Cybersecurity Solutions",
+       "Web Development",
+       "Data Analytics"
     ]
 }
