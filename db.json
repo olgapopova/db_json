@@ -24,12 +24,5 @@
         "title":"Data Analytics",
         "decription":"Data-driven insights to drive strategic decision-making. "
     }
-],
-   "categories":[
-       {"title":"Software Development"},
-        {"title":"Cloud Services and Hosting Solutions"},
-       {"title":"Cybersecurity Solutions"},
-       {"title":"Web Development"},
-       {"title":"Data Analytics"}
-    ]
+]
 }
