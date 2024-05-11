@@ -1,0 +1,28 @@
+{"services":[
+    {
+        "image":"https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg",
+        "title":"Software Development",
+        "decription":"Tailored software development services for various platforms including web, mobile, and desktop applications."
+    },
+    {
+        "image":"https://www.i2k2.com/wp-content/uploads/2017/03/Free-Cloud-Hosting-Solutions-for-Startups-Microsoft-Azure.png",
+        "title":"Cloud Services and Hosting Solutions",
+        "decription":"Robust cloud services tailored to your needs, from selecting the right cloud solution to data migration and security implementation."
+    },
+    {
+        "image":"https://consultdts.com/wp-content/uploads/2022/07/cyber-security-solutions.jpg",
+        "title":"Cybersecurity Solutions",
+        "decription":"Proactive cybersecurity services including vulnerability assessments, threat monitoring, and security system implementation."
+    },
+    {
+        "image":"https://www.tatvasoft.com/outsourcing/wp-content/uploads/2023/06/Types-of-Web-Development-for-your-Project.jpg",
+        "title":"Web Development",
+        "decription":"Dynamic web development services for creating responsive websites and e-commerce platforms."
+    },
+    {
+        "image":"https://omnidata.com/wp-content/uploads/2022/11/How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg",
+        "title":"Data Analytics",
+        "decription":"Data-driven insights to drive strategic decision-making. "
+    }
+]
+}
